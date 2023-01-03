@@ -1,3 +1,7 @@
+site_web = 'YouTube"
+print(site_web)
+
+
 """
 002 - Erreur déclaration variable
 Notions abordées: les variables.
@@ -9,7 +13,3 @@ Astuces:
     regardez le type de guillemet qui est utilisé. N'y a-t-il pas quelque chose
      qui cloche 😉 ?
 """
-
-
-site_web = 'YouTube"
-print(site_web)
